@@ -39,7 +39,7 @@
     },
     "homepage": "https://github.com/politie/informant#readme",
     "dependencies": {
-        "tslib": "^1.9.3"
+        "tslib": "1.9.3"
     },
     "devDependencies": {
         "@types/chai": "^4.1.7",
